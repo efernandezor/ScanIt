@@ -15,4 +15,12 @@ https://github.com/lorf/csr-spi-ftdi
 
 Below are the links of some videos with the demonstration of the functionalities that the project has:
 
+Present : https://www.youtube.com/watch?v=Y7D90Ifl7C0
+
+Scan Mode: https://www.youtube.com/watch?v=bn3tMtwQ8Cw
+
+Manual Control Mode: https://www.youtube.com/watch?v=3vZkwOC3278
+
+Cinematic Mode: https://www.youtube.com/watch?v=3RzymOEmsFE
+
 This project only works with android devices.
